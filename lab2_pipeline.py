@@ -18,6 +18,8 @@ regenerating it.
 Usage:
     python lab2_pipeline.py
 
+
+
     # Or via run_pipeline.py:
     python run_pipeline.py lab2
 """

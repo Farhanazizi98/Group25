@@ -5,7 +5,7 @@ DAT535 Lab 2: Spark Fundamentals & the Medallion Architecture Pipeline
 
 This pipeline demonstrates:
 - Spark session configuration
-
+--test pull
 - DataFrame creation, basic operations, filtering, sorting, aggregations
 - Data I/O (Parquet, CSV, JSON, partitioned)
 - RDD transformations and MapReduce patterns

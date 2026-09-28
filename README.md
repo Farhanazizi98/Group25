@@ -23,7 +23,7 @@ Spark pipelines for learning distributed data processing.
         └── dat535-prod.yml      # Main branch production deployment workflow
 ```
 
-### Overview
+### Overview ----
 
 The Jupyter notebooks in this folder teach Apache Spark end-to-end across **two consolidated labs**
 that share **one single e-commerce clickstream dataset** (generated once in Lab 2, reused by Lab 3):

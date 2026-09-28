@@ -10,6 +10,8 @@ This pipeline demonstrates:
 - RDD transformations and MapReduce patterns
 - The Medallion Architecture: Bronze -> Silver -> Gold
 
+
+
 It generates the single canonical e-commerce clickstream dataset used by both
 labs and saves the Bronze/Silver/Gold output to ~/spark-lab-data/shared/ so that
 Lab 3 (lab3_pipeline.py) can load the exact same Silver-layer data instead of
